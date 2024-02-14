@@ -1,2 +1,2 @@
 # DaviCho
-This is a website , I made during my certification in Front End Development with coursera.
+This is a website, I worked on during my certification in Front End Development using Coursera platform.
